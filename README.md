@@ -1,53 +1,53 @@
-# Hi there, I'm Bendegúz Szczuka! 👋
+# Szia, Szczuka Bendegúz vagyok! 👋
 
-## About Me
-I am a dedicated and communicative developer with a passion for continuous learning. Currently pursuing my Computer Science Engineering degree at Obuda University, I am enthusiastic about expanding my knowledge and expertise in the field.
+## Rólam
+Lelkes fejlesztő vagyok, aki szeret új dolgokat tanulni és folyamatosan fejlődni. Jelenleg az Óbudai Egyetemen tanulok mérnökinformatikus szakon, és mindig keresem az új kihívásokat, amikkel bővíthetem a tudásomat.
 
-🌱 I’m currently learning and developing my skills alongside my university studies.
+🌱 Most épp az egyetemi tanulmányaim mellett fejlesztem a szakmai készségeimet.
 
-## Experience
+## Tapasztalatok
 
-### Bosch Robot-Building Team Competition (2023-2024)
-- 🏆 Finished in third place two consecutive years with my team.
-- 👨‍💻 Led design, execution, and programming of an Arduino-based robot.
-- 🚀 Strengthened skills in teamwork, project management, and technical proficiency.
-- [www.teamjerry.hu](https://teamjerry.hu) - check out the website I made for our team!
+### Bosch Robotépítő Csapatverseny (2023-2024)
+- 🏆 Két egymást követő évben harmadik helyezést értünk el a csapatommal.
+- 👨‍💻 Az Arduino-alapú robot tervezését, programozását és megépítését én vezettem.
+- 🚀 Fejlődtem a csapatmunka, projektmenedzsment és technikai tudás terén.
+- [www.teamjerry.hu](https://teamjerry.hu) - itt megnézheted a weboldalt, amit a csapatunknak készítettem!
 
-### Independent Development Projects (2021 – 2023)
-- 💻 Proficient in C# and experienced in Java, Python, C, and C++.
-- 🛠️ Technologies: ASP.NET Core, CSS, HTML, JS, SQL, Entity Framework, REST API, Swagger, Git.
--  🚗 In the [Automated Car Simulation Project](https://github.com/SzFMV2024-Tavasz/AutomatedCar-A), I worked with multiple teams using agile methodology to develop a program simulating real driving and ADAS.
+### Fejlesztési Projektek (2021 – 2023)
+- 💻 Jól értek a C#-hoz, és tapasztalatom van Java, Python, C, és C++ nyelvekben is.
+- 🛠️ Technológiák, amikkel dolgoztam: ASP.NET Core, CSS, HTML, JS, SQL, Entity Framework, REST API, Swagger, Git.
+- 🚗 Az [Automatizált Autó Szimulációs Projekt](https://github.com/SzFMV2024-Tavasz/AutomatedCar-A) során agilis módszertan alapján fejlesztettünk egy programot, amely a valós vezetést és ADAS rendszereket szimulálja, több csapat közös munkájával.
 
-### Managing a Theater Group (2022 – 2023)
-- 🎭 Led the Nullpont Theater Workshop team in producing a successful production.
-- 💡 Involved in project ideation, writing, directing, and performance.
-- 🌐 Enhanced teamwork, organization, and time management skills.
-- [www.nullpontmuhely.hu](https://nullpontmuhely.hu) - check out the website I made for our projcet!
+### Színházi Csoport Vezetése (2022 – 2023)
+- 🎭 Vezettem a Nullpont Színházi Műhely csapatát egy sikeres előadás létrehozásában.
+- 💡 Részt vettem az ötleteléstől kezdve az íráson át a rendezésig és a fellépésig.
+- 🌐 Rengeteget fejlődtem a csapatmunka, szervezés és időmenedzsment terén.
+- [www.nullpontmuhely.hu](https://nullpontmuhely.hu) - itt megnézheted a színházi projektünk weboldalát, amit szintén én készítettem!
 
-## Studies and Language Skills
+## Tanulmányok és Nyelvismeret
 
-- 📚 **Computer Science Engineering** - Obuda University (2022 – Present)
-- 🌐 **English Language Proficiency** - C1 Level
-- 🇭🇺 **Hungarian Language Proficiency** - Native Level
+- 📚 **Mérnökinformatikus szak** - Óbudai Egyetem (2022 – jelenleg)
+- 🌐 **Angol** - C1 szintű nyelvtudás
+- 🇭🇺 **Magyar** - Anyanyelv
 
-## Strengths
+## Erősségeim
 
-- ✨ Problem-solving
-- 🤝 Teamwork
-- 🗣️ Communication
-- ⌛ Good time management
+- ✨ Problémamegoldás
+- 🤝 Csapatmunka
+- 🗣️ Kommunikáció
+- ⌛ Időgazdálkodás
 
-## Hobbies
+## Hobbijaim
 
-- 🚵‍♂️ Mountain biking
-- 🎸 Playing the guitar and piano
-- 🎬 Acting and directing
-- 📷 Photography and cinematography
+- 🚵‍♂️ Hegyi kerékpározás
+- 🎸 Gitározás és zongorázás
+- 🎬 Színjátszás és rendezés
+- 📷 Fotózás és filmkészítés
 
-## Get in Touch
+## Kapcsolat
 
 - 📧 **Email**: szczukabendeguz@gmail.com
 - 🌐 **LinkedIn**: [linkedin.com/in/szczuka-bende/](https://www.linkedin.com/in/szczuka-bende/)
 - 💻 **GitHub**: [github.com/asimoq/](https://github.com/asimoq/)
 
-Feel free to explore my repositories and projects. Let's connect and collaborate! 🚀
+Ha érdekelnek a projektjeim, nézd meg a GitHubom, és keress bátran! 🚀
