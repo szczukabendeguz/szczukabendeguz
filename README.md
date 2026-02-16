@@ -31,10 +31,19 @@ Live: https://codelingo.hu
 - 🚀 Fejlesztettem a készségeimet az embedded systems, robotics, real-time diagnostics, teamwork és end-to-end project development területeken.
 - 🌐 [www.teamjerry.hu](https://teamjerry.hu) – Nézd meg a weboldalt, amit a csapatunknak készítettem!
 
-### Fejlesztési Projektek (2021 – 2026)
-- 💻 Magabiztosan használom a C# nyelvet, és tapasztalatom van Java, C és C++ nyelvekben.
-- 🛠️ Technológiák: ASP.NET Core, Angular, Bootstrap, CSS, HTML, JS, SQL, Entity Framework, REST API, Swagger, Git.
-- 🚗 Az [Automated Car Simulation Project](https://github.com/SzFMV2024-Tavasz/AutomatedCar-A) során több csapattal dolgoztam együtt agile módszertan alapján, hogy fejlesszünk egy vezetést és ADAS-t szimuláló alkalmazást.
+## Fejlesztői tapasztalat – kiemelt projektek
+
+- **CodeLingo (Full‑stack + DevOps)** – Duolingo‑jellegű tanulóplatform; architect/lead developer szerepben vezettem a technikai tervezést és a fejlesztést, valamint a teljes üzembe helyezést és CI/CD-t is megvalósítottam (Debian VPS, Apache reverse proxy + VirtualHost, systemd, UFW, Let’s Encrypt/Certbot, GitHub Actions; prod + teszt környezet). [projekt](https://github.com/bprof-spec-codes/codelingo) · [live](https://codelingo.hu)
+
+- **booking_webapp_nullpontmuhely (Nullpont Műhely – Event Booking System)** – éles, valós felhasználói flow-t kiszolgáló full‑stack webapp: jegyfoglalás valós idejű kapacitásellenőrzéssel (max. 60 fő/esemény), automatikus email visszaigazolással és admin dashboard-dal a foglalások kezelésére. Tech: Next.js 16 (App Router) + TypeScript + Bootstrap/SCSS, Next.js API Routes, Resend + React Email, JSON fájl alapú perzisztencia. [projekt](https://github.com/szczukabendeguz/booking_webapp_nullpontmuhely) · [live](https://nullpontmuhely.hu)
+
+- **Választás2026 (Election Simulation Engine)** – kliensoldali, részletes választási szimulátor a 2026-os magyar országgyűlési választások modellezésére (106 EVK + 93 listás mandátum), a töredékszavazat‑kompenzációk és a D’Hondt szerinti listás kiosztás implementálásával. Moduláris ES6 felépítés (számítási logika, CSV adatkezelés, state, render) és körzeti “rural bias” modell a földrajzi torzítások szimulálására. [projekt](https://github.com/szczukabendeguz/Valasztas2026) · [live](https://szczukabendeguz.github.io/Valasztas2026/)
+
+- **Jerry3_ESP32_MazeSolvingRobot (Embedded + Web diagnostics)** – ESP32‑alapú autonóm labirintus‑megoldó robot (Óbudai Egyetem “Mobile Robots in the Maze”); WiFi‑n keresztüli valós idejű hangolást és monitorozást biztosító webes felülettel (SoftAP), miközben embedded oldalon PID‑es falkövetés, Kalman‑szűrt IR szenzoradatok, RFID‑alapú navigáció és giroszkóp‑asszisztált fordulók futnak AsyncWebServer-rel. [projekt](https://github.com/szczukabendeguz/Jerry3_ESP32_MazeSolvingRobot)
+
+- **Fullstack_BikeStore** – Angular 19 + .NET 8 Web API + EF Core (SQL Server) alapú full‑stack “bike store” alkalmazás; márkák és modellek CRUD, szűrés, statisztikák (pl. átlagár). Backend oldalon Identity + JWT, AutoMapper és Swagger, rétegezett felépítéssel (Endpoint/Logic/Data) SPA frontendlal. [projekt](https://github.com/szczukabendeguz/Fullstack_BikeStore)
+
+- **ASP.NET_CarRental** – clean/layered architektúrájú car‑rental menedzsment rendszer: REST API + többféle kliens (ASP.NET MVC web, WPF desktop, konzol, JS kliens), SignalR alapú valós idejű kommunikációval és Swagger dokumentált API-val. Entity Framework Core + repository pattern + business logic réteg mentén épül fel. [projekt](https://github.com/szczukabendeguz/ASP.NET_CarRental)
 
 ### Damocles Kft. – IT Operations & Automation Specialist (2024 – jelenleg is)
 - 🖥️ Egy kis, de dinamikus IT szolgáltató cégnél dolgozom, ahol a rugalmasság, innováció és együttműködés áll a középpontban.
