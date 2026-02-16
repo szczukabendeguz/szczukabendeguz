@@ -5,9 +5,22 @@ Elkötelezett és kommunikatív fejlesztő vagyok, aki törekszik a folyamatos t
 
 🌱 Jelenleg a Damocles Kft-nél dolgozom és fejlesztem skilljeimet az egyetemi tanulmányaim mellett.
 
+## ⭐ Project highlight: CodeLingo (Full‑stack + DevOps)
+A **CodeLingo** egy Duolingo‑jellegű tanulóplatform, amelyet full‑stack szemlélettel fejlesztettünk (ASP.NET 8 backend + Angular frontend + Bootstrap UI).  
+Live: https://codelingo.hu  
+🔗 Repo: https://github.com/bprof-spec-codes/codelingo
+
+**Szerepem:** Architect / Lead Developer – a fejlesztés technikai irányítását vittem, a rendszer felépítését és főbb döntéseit én terveztem meg, és projektmenedzsment jellegű feladatokba (prioritások, feladatok szervezése, egyeztetések) is aktívan bekapcsolódtam.
+**DevOps / üzembe helyezés:** a projektet production szintre is elvittem, Debian alapú VPS-en:  
+- Apache VirtualHost + Reverse Proxy (frontend + API külön eléréssel). 
+- Backend futtatás systemd service-ekkel (tartós futás, újraindítás, környezetek kezelése).
+- Security hardening: SSH kulcsalapú belépés, UFW tűzfal.
+- HTTPS Let’s Encrypt + Certbot, tanúsítvány-megújítás automatizálása.
+- CI/CD GitHub Actions-szel: build + deploy automatizálás, külön production és test környezet (GitFlow master/develop), konfigurációk kezelése GitHub Secrets-szel.
+
 ## Tapasztalat
 
-### Bosch Robotépítő Csapatverseny (2023–2025)
+### Bosch Robotépítő Csapatverseny (2023–2026)
 - 🥇 **2025**: **1. helyezés** mind a **Sprint**, mind az **Összesített** kategóriákban egy **ESP32**-alapú robottal, amely egyedi **web interface**-t tartalmazott **monitoring** és **paraméter tuning** céljából.  
   🔗 [GitHub Repository](https://github.com/asimoq/Jerry3_ESP32_MazeSolvingRobot)
 - 🏆 **2024**: Ismét **3. hely**, valamint **Mechanical Design Special Award** díj egy továbbfejlesztett **Arduino**-alapú robottal.  
@@ -18,7 +31,7 @@ Elkötelezett és kommunikatív fejlesztő vagyok, aki törekszik a folyamatos t
 - 🚀 Fejlesztettem a készségeimet az embedded systems, robotics, real-time diagnostics, teamwork és end-to-end project development területeken.
 - 🌐 [www.teamjerry.hu](https://teamjerry.hu) – Nézd meg a weboldalt, amit a csapatunknak készítettem!
 
-### Fejlesztési Projektek (2021 – 2024)
+### Fejlesztési Projektek (2021 – 2026)
 - 💻 Magabiztosan használom a C# nyelvet, és tapasztalatom van Java, C és C++ nyelvekben.
 - 🛠️ Technológiák: ASP.NET Core, Angular, Bootstrap, CSS, HTML, JS, SQL, Entity Framework, REST API, Swagger, Git.
 - 🚗 Az [Automated Car Simulation Project](https://github.com/SzFMV2024-Tavasz/AutomatedCar-A) során több csapattal dolgoztam együtt agile módszertan alapján, hogy fejlesszünk egy vezetést és ADAS-t szimuláló alkalmazást.
@@ -31,12 +44,6 @@ Elkötelezett és kommunikatív fejlesztő vagyok, aki törekszik a folyamatos t
 - ☁️ Tapasztalatot szereztem cloud platformokkal, mint például **Azure**.
 - 🛠️ Napi szinten használom az **Atlassian stack**-et (Jira, Confluence) és kollaboratív munkafolyamatokat.
 - 🤝 Erősítem problémamegoldó készségeimet, kommunikációmat, és tapasztalatot szerezek egy gyors tempójú, ügyfélorientált környezetben.
-
-### Színjátszó Csoport Vezetése (2022 – 2023)
-- 🎭 A Nullpont Színházi Műhely vezetője voltam egy sikeres előadás megszervezésében.
-- 💡 Részt vettem az ötletelésben, írásban, rendezésben és előadásban.
-- 🌐 Fejlesztettem a csapatmunkámat, szervezőkészségemet és időmenedzsmentemet.
-- [www.nullpontmuhely.hu](https://nullpontmuhely.hu) – Nézd meg a projekt weboldalát, amit készítettem!
 
 ## Tanulmányok és Nyelvtudás
 
