@@ -1,83 +1,92 @@
-# Szia, Szczuka Bendegúz vagyok! 👋
+<div align="center">
+  <h1>Szia, Szczuka Bendegúz vagyok!</h1>
+  <h3>Full-stack | DevOps | Embedded Systems</h3>
 
-## Rólam
-Elkötelezett és kommunikatív fejlesztő vagyok, aki törekszik a folyamatos tanulásra. Jelenleg Üzemmérnök-Informatikus szakot végzem az Óbudai Egyetemen, és lelkesen bővítem a tudásom és szakértelmem az IT területén.
+  <p>
+    <a href="mailto:szczukabendeguz@gmail.com">
+      <img src="https://img.shields.io/badge/Email-szczukabendeguz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/szczuka-bende/">
+      <img src="https://img.shields.io/badge/LinkedIn-Szczuka%20Bendegúz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://szczuka.hu">
+      <img src="https://img.shields.io/badge/Website-szczuka.hu-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+  </p>
+</div>
 
-🌱 Jelenleg a Damocles Kft-nél dolgozom és fejlesztem skilljeimet az egyetemi tanulmányaim mellett.
+---
 
-## ⭐ Project highlight: CodeLingo (Full‑stack + DevOps)
-A **CodeLingo** egy Duolingo‑jellegű tanulóplatform, amelyet full‑stack szemlélettel fejlesztettünk (ASP.NET 8 backend + Angular frontend + Bootstrap UI).  
-Live: https://codelingo.hu  
-🔗 Repo: https://github.com/bprof-spec-codes/codelingo
+### Rólam
 
-**Szerepem:** Architect / Lead Developer – a fejlesztés technikai irányítását vittem, a rendszer felépítését és főbb döntéseit én terveztem meg, és projektmenedzsment jellegű feladatokba (prioritások, feladatok szervezése, egyeztetések) is aktívan bekapcsolódtam.
-**DevOps / üzembe helyezés:** a projektet production szintre is elvittem, Debian alapú VPS-en:  
-- Apache VirtualHost + Reverse Proxy (frontend + API külön eléréssel). 
-- Backend futtatás systemd service-ekkel (tartós futás, újraindítás, környezetek kezelése).
-- Security hardening: SSH kulcsalapú belépés, UFW tűzfal.
-- HTTPS Let’s Encrypt + Certbot, tanúsítvány-megújítás automatizálása.
-- CI/CD GitHub Actions-szel: build + deploy automatizálás, külön production és test környezet (GitFlow master/develop), konfigurációk kezelése GitHub Secrets-szel.
+Elkötelezett és kommunikatív fejlesztő vagyok, aki törekszik a folyamatos tanulásra. Jelenleg **Üzemmérnök-Informatikus** szakot végzem az **Óbudai Egyetemen**, és lelkesen bővítem a tudásom és szakértelmem az IT területén. Jelenleg a **Damocles Kft**-nél dolgozom és fejlesztem skilljeimet az egyetemi tanulmányaim mellett.
 
-## Tapasztalat
+---
 
-### Bosch Robotépítő Csapatverseny (2023–2026)
-- 🥇 **2025**: **1. helyezés** mind a **Sprint**, mind az **Összesített** kategóriákban egy **ESP32**-alapú robottal, amely egyedi **web interface**-t tartalmazott **monitoring** és **paraméter tuning** céljából.  
-  🔗 [GitHub Repository](https://github.com/asimoq/Jerry3_ESP32_MazeSolvingRobot)
-- 🏆 **2024**: Ismét **3. hely**, valamint **Mechanical Design Special Award** díj egy továbbfejlesztett **Arduino**-alapú robottal.  
-  🔗 [GitHub Repository](https://github.com/asimoq/ArduinoMazeSolvingRobot)
-- 🏆 **2023**: **3. helyezést** értünk el egy **Arduino**-alapú maze-solving robot segítségével.  
-  🔗 [GitHub Repository](https://github.com/asimoq/ArduinoMazeSolvingRobot)
-- 👨‍💻 Részt vettem a tervezésben, mechanikai kivitelezésben és programozásban minden évben.
-- 🚀 Fejlesztettem a készségeimet az embedded systems, robotics, real-time diagnostics, teamwork és end-to-end project development területeken.
-- 🌐 [www.teamjerry.hu](https://teamjerry.hu) – Nézd meg a weboldalt, amit a csapatunknak készítettem!
+### Technológiai Stack
 
-## Fejlesztői tapasztalat – kiemelt projektek
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <br />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+</div>
 
-- **CodeLingo (Full‑stack + DevOps)** – Duolingo‑jellegű tanulóplatform; architect/lead developer szerepben vezettem a technikai tervezést és a fejlesztést, valamint a teljes üzembe helyezést és CI/CD-t is megvalósítottam (Debian VPS, Apache reverse proxy + VirtualHost, systemd, UFW, Let’s Encrypt/Certbot, GitHub Actions; prod + teszt környezet). [projekt](https://github.com/bprof-spec-codes/codelingo) · [live](https://codelingo.hu)
+---
 
-- **booking_webapp_nullpontmuhely (Nullpont Műhely – Event Booking System)** – éles, valós felhasználói flow-t kiszolgáló full‑stack webapp: jegyfoglalás valós idejű kapacitásellenőrzéssel (max. 60 fő/esemény), automatikus email visszaigazolással és admin dashboard-dal a foglalások kezelésére. Tech: Next.js 16 (App Router) + TypeScript + Bootstrap/SCSS, Next.js API Routes, Resend + React Email, JSON fájl alapú perzisztencia. [projekt](https://github.com/szczukabendeguz/booking_webapp_nullpontmuhely) · [live](https://nullpontmuhely.hu)
+### Kiemelt Projektek
 
-- **Választás2026 (Election Simulation Engine)** – kliensoldali, részletes választási szimulátor a 2026-os magyar országgyűlési választások modellezésére (106 EVK + 93 listás mandátum), a töredékszavazat‑kompenzációk és a D’Hondt szerinti listás kiosztás implementálásával. Moduláris ES6 felépítés (számítási logika, CSV adatkezelés, state, render) és körzeti “rural bias” modell a földrajzi torzítások szimulálására. [projekt](https://github.com/szczukabendeguz/Valasztas2026) · [live](https://szczukabendeguz.github.io/Valasztas2026/)
+| Projekt | Stack | Leírás & Linkek |
+| :--- | :--- | :--- |
+| **CodeLingo** | <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,docker,linux" height="25" /> | **Duolingo-jellegű tanulóplatform.** Architect/Lead szerep. Full CI/CD, Debian VPS, Reverse Proxy.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://codelingo.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/bprof-spec-codes/codelingo) |
+| **Nullpont Booking** | <img src="https://skillicons.dev/icons?i=nextjs,ts,bootstrap,react" height="25" /> | **Event Booking System.** Jegyfoglalás, kapacitásellenőrzés, email automatizáció.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://nullpontmuhely.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/booking_webapp_nullpontmuhely) |
+| **Választás 2026** | <img src="https://skillicons.dev/icons?i=js,html,css" height="25" /> | **Választási szimulátor.** D’Hondt algoritmus, töredékszavazat-kompenzáció, mandátumkalkuláció.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://szczukabendeguz.github.io/Valasztas2026/) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Valasztas2026) |
+| **Jerry3 Robot** | <img src="https://skillicons.dev/icons?i=cpp,arduino" height="25" /> | **ESP32 Maze Solver.** Webes diagnosztika, PID szabályozás, WiFi telemetria.<br/>[<img src="https://img.shields.io/badge/Live-TeamJerry-brightgreen" height="20"/>](https://teamjerry.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Jerry3_ESP32_MazeSolvingRobot) |
+| **BikeStore** | <img src="https://skillicons.dev/icons?i=angular,dotnet" height="25" /> | **Full-stack Webshop.** CRUD, Identity + JWT, AutoMapper, SQL Server.<br/>[<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Fullstack_BikeStore) |
+| **CarRental** | <img src="https://skillicons.dev/icons?i=dotnet,cs" height="25" /> | **Rental Management System.** Clean architecture, WPF/Web/Console kliensek, SignalR.<br/>[<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/ASP.NET_CarRental) |
 
-- **Jerry3_ESP32_MazeSolvingRobot (Embedded + Web diagnostics)** – ESP32‑alapú autonóm labirintus‑megoldó robot (Óbudai Egyetem “Mobile Robots in the Maze”); WiFi‑n keresztüli valós idejű hangolást és monitorozást biztosító webes felülettel (SoftAP), miközben embedded oldalon PID‑es falkövetés, Kalman‑szűrt IR szenzoradatok, RFID‑alapú navigáció és giroszkóp‑asszisztált fordulók futnak AsyncWebServer-rel. [projekt](https://github.com/szczukabendeguz/Jerry3_ESP32_MazeSolvingRobot)
+---
 
-- **Fullstack_BikeStore** – Angular 19 + .NET 8 Web API + EF Core (SQL Server) alapú full‑stack “bike store” alkalmazás; márkák és modellek CRUD, szűrés, statisztikák (pl. átlagár). Backend oldalon Identity + JWT, AutoMapper és Swagger, rétegezett felépítéssel (Endpoint/Logic/Data) SPA frontendlal. [projekt](https://github.com/szczukabendeguz/Fullstack_BikeStore)
+### Szakmai Tapasztalat
 
-- **ASP.NET_CarRental** – clean/layered architektúrájú car‑rental menedzsment rendszer: REST API + többféle kliens (ASP.NET MVC web, WPF desktop, konzol, JS kliens), SignalR alapú valós idejű kommunikációval és Swagger dokumentált API-val. Entity Framework Core + repository pattern + business logic réteg mentén épül fel. [projekt](https://github.com/szczukabendeguz/ASP.NET_CarRental)
+#### [Damocles Kft.](https://damocles.hu) – IT Operations Specialist
+*2024 – Jelenleg*
+*   **IT Ops & Security:** End-to-end üzemeltetés és Endpoint Lifecycle Management (setup, patching, asset tracking). Kiemelt fókusz az **Identity Managementen** (Azure AD/Entra ID, least-privilege elv, onboarding/offboarding) és a rendszerbiztonsági hardeningen.
+*   **Automatizáció:** Ismétlődő folyamatok kiváltása **PowerShell** scriptekkel és **n8n** alapú webhook/API integrációkkal.
+*   **Web & Dokumentáció:** Reszponzív weboldalak karbantartása (HTML, CSS, JS, Bootstrap), valamint runbookok és tudásbázis építése a fenntartható működésért.
+*   **Stakeholder Management:** Technikai incidensek és kockázatok kommunikációja az üzleti vezetés felé.
 
-### Damocles Kft. – IT Operations & Automation Specialist (2024 – jelenleg is)
-- 🖥️ Egy kis, de dinamikus IT szolgáltató cégnél dolgozom, ahol a rugalmasság, innováció és együttműködés áll a középpontban.
-- 🔧 Feladataim közé tartozik az általános IT üzemeltetés: network monitoring, szerver- és workstation-karbantartás, remote support, rendszertelepítések és konfigurációs feladatok.
-- 📦 Részt veszek automation workflow fejlesztésben **PHP**, **JavaScript** és **PowerShell** segítségével az ügyféloldali folyamatok egyszerűsítésére.
-- 🐳 Használom a **Docker**-t konténerizálásra, valamint segítek autómatizációs és AI eszközök fejlesztésében.
-- ☁️ Tapasztalatot szereztem cloud platformokkal, mint például **Azure**.
-- 🛠️ Napi szinten használom az **Atlassian stack**-et (Jira, Confluence) és kollaboratív munkafolyamatokat.
-- 🤝 Erősítem problémamegoldó készségeimet, kommunikációmat, és tapasztalatot szerezek egy gyors tempójú, ügyfélorientált környezetben.
+#### [Bosch Robotépítő Csapatverseny (2023–2026)](https://teamjerry.hu)
+*   **2025:** 1. helyezés (Sprint & Összesített) – [ ESP32 robot egyedi web interface-szel.](https://github.com/asimoq/Jerry3_ESP32_MazeSolvingRobot)
+*   **2024:** 3. helyezés + Mechanical Design Díj – [Továbbfejlesztett Arduino robot.](https://github.com/asimoq/ArduinoMazeSolvingRobot)
+*   **2023:** 3. helyezés – [Maze-solving robot.](https://github.com/asimoq/ArduinoMazeSolvingRobot)
 
-## Tanulmányok és Nyelvtudás
 
-- 📚 **Computer Science Engineering** – Óbudai Egyetem (2022 – jelenleg is)
-- 🌐 **Angol nyelv** – C1 szint
-- 🇭🇺 **Magyar nyelv** – Anyanyelvi szint
+---
 
-## Erősségek
+### Tanulmányok
 
-- ✨ Problémamegoldás
-- 🤝 Csapatmunka
-- 🗣️ Kommunikáció
-- ⌛ Időgazdálkodás
+*   **Computer Science Engineering** | Óbudai Egyetem (2022 – Jelenleg)
 
-## Hobbijaim
+### Nyelvtudás
 
-- 🚵‍♂️ Hegyi kerékpározás
-- 🎸 Gitár és zongora játék
-- 🎬 Színjátszás és rendezés
-- 📷 Fotózás és filmkészítés
+*   **Angol:** C1 (Felsőfok)
+*   **Magyar:** Anyanyelvi szint
 
-## Elérhetőség
+### Hobbik
 
-- 📧 **Email**: szczukabendeguz@gmail.com  
-- 🌐 **LinkedIn**: [linkedin.com/in/szczuka-bende/](https://www.linkedin.com/in/szczuka-bende/)  
-- 💻 **GitHub**: [github.com/asimoq/](https://github.com/asimoq/)
-
-Nézd meg a repóimat és projektjeimet bátran – ha érdekel az együttműködés, keress meg! 🚀
+*   Hegyi kerékpározás
+*   Gitár és zongora
+*   Színjátszás és rendezés
+*   Fotózás és filmkészítés
