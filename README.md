@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Szia, Szczuka Bendegúz vagyok!</h1>
+  <h1>Hi, I'm Bendegúz Szczuka!</h1>
   <h3>Full-stack | DevOps | Embedded Systems</h3>
 
   <p>
-    <a href="mailto:szczukabendeguz@gmail.com">
-      <img src="https://img.shields.io/badge/Email-szczukabendeguz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:bendeguz@szczuka.hu">
+      <img src="https://img.shields.io/badge/Email-bendeguz%40szczuka.hu-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/szczuka-bende/">
       <img src="https://img.shields.io/badge/LinkedIn-Szczuka%20Bendegúz-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,13 +17,13 @@
 
 ---
 
-### Rólam
+### About Me
 
-Elkötelezett és kommunikatív fejlesztő vagyok, aki törekszik a folyamatos tanulásra. Jelenleg **Üzemmérnök-Informatikus** szakot végzem az **Óbudai Egyetemen**, és lelkesen bővítem a tudásom és szakértelmem az IT területén. Jelenleg a **Damocles Kft**-nél dolgozom és fejlesztem skilljeimet az egyetemi tanulmányaim mellett.
+I am a dedicated and communicative developer committed to continuous learning. I am currently studying **Computer Science Engineering** at **Óbudai University**, and I am enthusiastically expanding my knowledge and expertise in the IT field. I currently work at **Damocles Kft.**, developing my skills alongside my university studies.
 
 ---
 
-### Technológiai Stack
+### Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -45,48 +45,58 @@ Elkötelezett és kommunikatív fejlesztő vagyok, aki törekszik a folyamatos t
 
 ---
 
-### Kiemelt Projektek
+### Featured Projects
 
-| Projekt | Stack | Leírás & Linkek |
+| Project | Stack | Description & Links |
 | :--- | :--- | :--- |
-| **CodeLingo** | <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,docker,linux" height="25" /> | **Duolingo-jellegű tanulóplatform.** Architect/Lead szerep. Full CI/CD, Debian VPS, Reverse Proxy.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://codelingo.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/bprof-spec-codes/codelingo) |
-| **Nullpont Booking** | <img src="https://skillicons.dev/icons?i=nextjs,ts,bootstrap,react" height="25" /> | **Event Booking System.** Jegyfoglalás, kapacitásellenőrzés, email automatizáció.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://nullpontmuhely.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/booking_webapp_nullpontmuhely) |
-| **Választás 2026** | <img src="https://skillicons.dev/icons?i=js,html,css" height="25" /> | **Választási szimulátor.** D’Hondt algoritmus, töredékszavazat-kompenzáció, mandátumkalkuláció.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://szczukabendeguz.github.io/Valasztas2026/) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Valasztas2026) |
-| **Jerry3 Robot** | <img src="https://skillicons.dev/icons?i=cpp,arduino" height="25" /> | **ESP32 Maze Solver.** Webes diagnosztika, PID szabályozás, WiFi telemetria.<br/>[<img src="https://img.shields.io/badge/Live-TeamJerry-brightgreen" height="20"/>](https://teamjerry.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Jerry3_ESP32_MazeSolvingRobot) |
+| **ESP32VariableTuner** | <img src="https://skillicons.dev/icons?i=cpp,arduino,angular,ts" height="25" /> | **TDK Research Project** Arduino/PlatformIO library for runtime variable tuning on ESP32 via a web interface. <br/>[<img src="https://img.shields.io/badge/PlatformIO-Registry-orange" height="20"/>](https://registry.platformio.org/libraries/szczukabendeguz/ESP32VariableTuner) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/ESP32VariableTuner-public) |
+| **CodeLingo** | <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,docker,linux" height="25" /> | **Duolingo-style learning platform.** Architect/Lead role. Full CI/CD, Debian VPS, Reverse Proxy.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://codelingo.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/bprof-spec-codes/codelingo) |
+| **Nullpont Booking** | <img src="https://skillicons.dev/icons?i=nextjs,ts,bootstrap,react" height="25" /> | **Event Booking System.** Ticket reservation, capacity management, email automation.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://nullpontmuhely.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/booking_webapp_nullpontmuhely) |
+| **Választás 2026** | <img src="https://skillicons.dev/icons?i=js,html,css" height="25" /> | **Election Simulator.** D'Hondt algorithm, fractional vote compensation, seat allocation calculation.<br/>[<img src="https://img.shields.io/badge/Live-Demo-brightgreen" height="20"/>](https://szczukabendeguz.github.io/Valasztas2026/) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Valasztas2026) |
+| **Jerry3 Robot** | <img src="https://skillicons.dev/icons?i=cpp,arduino" height="25" /> | **ESP32 Maze Solver.** Web-based diagnostics, PID control, WiFi telemetry.<br/>[<img src="https://img.shields.io/badge/Live-TeamJerry-brightgreen" height="20"/>](https://teamjerry.hu) [<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Jerry3_ESP32_MazeSolvingRobot) |
 | **BikeStore** | <img src="https://skillicons.dev/icons?i=angular,dotnet" height="25" /> | **Full-stack Webshop.** CRUD, Identity + JWT, AutoMapper, SQL Server.<br/>[<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/Fullstack_BikeStore) |
-| **CarRental** | <img src="https://skillicons.dev/icons?i=dotnet,cs" height="25" /> | **Rental Management System.** Clean architecture, WPF/Web/Console kliensek, SignalR.<br/>[<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/ASP.NET_CarRental) |
+| **CarRental** | <img src="https://skillicons.dev/icons?i=dotnet,cs" height="25" /> | **Rental Management System.** Clean architecture, WPF/Web/Console clients, SignalR.<br/>[<img src="https://img.shields.io/badge/GitHub-Repo-black" height="20"/>](https://github.com/szczukabendeguz/ASP.NET_CarRental) |
 
 ---
 
-### Szakmai Tapasztalat
+### Professional Experience
 
 #### [Damocles Kft.](https://damocles.hu) – IT Operations Specialist
-*2024 – Jelenleg*
-*   **IT Ops & Security:** End-to-end üzemeltetés és Endpoint Lifecycle Management (setup, patching, asset tracking). Kiemelt fókusz az **Identity Managementen** (Azure AD/Entra ID, least-privilege elv, onboarding/offboarding) és a rendszerbiztonsági hardeningen.
-*   **Automatizáció:** Ismétlődő folyamatok kiváltása **PowerShell** scriptekkel és **n8n** alapú webhook/API integrációkkal.
-*   **Web & Dokumentáció:** Reszponzív weboldalak karbantartása (HTML, CSS, JS, Bootstrap), valamint runbookok és tudásbázis építése a fenntartható működésért.
-*   **Stakeholder Management:** Technikai incidensek és kockázatok kommunikációja az üzleti vezetés felé.
+*2024 – Present*
+*   **IT Ops & Security:** End-to-end operations and Endpoint Lifecycle Management (setup, patching, asset tracking). Key focus on **Identity Management** (Azure AD/Entra ID, least-privilege principle, onboarding/offboarding) and system security hardening.
+*   **Automation:** Replacing repetitive processes with **PowerShell** scripts and **n8n**-based webhook/API integrations.
+*   **Web & Documentation:** Maintaining responsive websites (HTML, CSS, JS, Bootstrap), and building runbooks and a knowledge base for sustainable operations.
+*   **Stakeholder Management:** Communicating technical incidents and risks to business leadership.
 
-#### [Bosch Robotépítő Csapatverseny (2023–2026)](https://teamjerry.hu)
-*   **2025:** 1. helyezés (Sprint & Összesített) – [ ESP32 robot egyedi web interface-szel.](https://github.com/asimoq/Jerry3_ESP32_MazeSolvingRobot)
-*   **2024:** 3. helyezés + Mechanical Design Díj – [Továbbfejlesztett Arduino robot.](https://github.com/asimoq/ArduinoMazeSolvingRobot)
-*   **2023:** 3. helyezés – [Maze-solving robot.](https://github.com/asimoq/ArduinoMazeSolvingRobot)
+#### [Bosch Robot Building Team Competition (2023–2026)](https://teamjerry.hu)
+*   **2025:** 1st place (Sprint & Overall) – [ESP32 robot with custom web interface.](https://github.com/asimoq/Jerry3_ESP32_MazeSolvingRobot)
+*   **2024:** 3rd place + Mechanical Design Award – [Enhanced Arduino robot.](https://github.com/asimoq/ArduinoMazeSolvingRobot)
+*   **2023:** 3rd place – [Maze-solving robot.](https://github.com/asimoq/ArduinoMazeSolvingRobot)
 
+#### Student Research Competition – TDK (Scientific Students' Association Conference)
+*2026*
+*   **3rd place** at the Óbudai University TDK conference with the project [**ESP32VariableTuner**](https://github.com/szczukabendeguz/ESP32VariableTuner-public), which also serves as my Bachelor's thesis.
+*   The project involved developing and publishing a **PlatformIO/Arduino library** that enables runtime variable monitoring and tuning on an **ESP32 microcontroller** through a built-in web interface (REST API + WebSocket).
+*   The web UI is embedded directly in the firmware as a header file and is accessible via both **AP and STA Wi-Fi modes**, with password-protected access and an **Angular SPA** demo client.
+*   The library is complemented by a full testing infrastructure: a **Node.js mock server** for UI development without hardware, and **Playwright-based live E2E and performance tests** running on the real device.
+*   The idea for the project was directly inspired by hands-on experience developing web-interfaced ESP32 robots at the Bosch Robot Building Competition.
+*   Published library: [registry.platformio.org](https://registry.platformio.org/libraries/szczukabendeguz/ESP32VariableTuner)
 
 ---
 
-### Tanulmányok
+### Education
 
-*   **Computer Science Engineering** | Óbudai Egyetem (2022 – Jelenleg)
+*   **Computer Science Engineering** | Óbudai University (2022 – Present)
+    *   **2026:** 3rd place at the University Student Research Competition (TDK) with the thesis project [*ESP32VariableTuner*](https://github.com/szczukabendeguz/ESP32VariableTuner-public) — *Development of a library for flexible variable monitoring and tuning on ESP32 microcontroller with web interface*
 
-### Nyelvtudás
+### Languages
 
-*   **Angol:** C1 (Felsőfok)
-*   **Magyar:** Anyanyelvi szint
+*   **English:** C1 (Advanced)
+*   **Hungarian:** Native
 
-### Hobbik
+### Hobbies
 
-*   Hegyi kerékpározás
-*   Gitár és zongora
-*   Színjátszás és rendezés
-*   Fotózás és filmkészítés
+*   Mountain biking
+*   Guitar and piano
+*   Acting and directing
+*   Photography and filmmaking
